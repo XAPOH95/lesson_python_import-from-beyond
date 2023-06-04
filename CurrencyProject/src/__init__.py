@@ -1,0 +1,1 @@
+from .base.currency import Currency
